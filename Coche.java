@@ -11,6 +11,7 @@ public class Coche {
 	private int peso_total;
 	private boolean asientos_cuero, climatizador;
 	
+	// este es un comentario hecho desde GitHub y aparecerá en la carpeta de proyectos
 	public Coche () {
 		
 		ruedas= 4;
@@ -23,7 +24,7 @@ public class Coche {
 	
 	public String dime_datos_generales() {  //getter
 		
-		return "la plataforma del veh�culo tiene: " + ruedas + " ruedas" + ". Mide " + largo/1000 
+		return "la plataforma del vehículo tiene: " + ruedas + " ruedas" + ". Mide " + largo/1000 
 				+ " metros con un ancho de: " + ancho + " cms y un peso de plataforma de: " 
 				+ peso_plataforma + " kgs.";
 	}
