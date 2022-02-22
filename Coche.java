@@ -12,6 +12,7 @@ public class Coche {
 	private boolean asientos_cuero, climatizador;
 	
 	// este es un comentario hecho desde GitHub y aparecerá en la carpeta de proyectos
+	// segundo comentario desde GitHub
 	public Coche () {
 		
 		ruedas= 4;
