@@ -11,8 +11,8 @@ public class Coche {
 	private int peso_total;
 	private boolean asientos_cuero, climatizador;
 	
-	// este es un comentario hecho desde GitHub y aparecerá en la carpeta de proyectos
-	// segundo comentario desde GitHub!
+	// este es un comentario hecho desde GitHub y aparecera en la carpeta de proyectos
+	// segundo comentario desde GitHub77777
 	public Coche () {
 		
 		ruedas= 4;
